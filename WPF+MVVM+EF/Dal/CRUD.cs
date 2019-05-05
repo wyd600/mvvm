@@ -12,6 +12,8 @@ namespace WPF_MVVM_EF.Dal
         static Entities context = new Entities();
 
 
+        
+
 
         //获取数据库中的所有数据
         public static List<Student> GetData()
