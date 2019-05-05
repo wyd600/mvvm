@@ -3,6 +3,11 @@ using System.Windows.Input;
 
 namespace WPF_MVVM_EF.ViewModels
 {
+
+
+    //这是我在王尼玛分支上的修改
+
+
     public class CommandBase : ICommand
     {
         #region Private Fields
