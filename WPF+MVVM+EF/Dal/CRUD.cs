@@ -12,7 +12,7 @@ namespace WPF_MVVM_EF.Dal
         static Entities context = new Entities();
 
 
-        
+        //分支
 
 
         //获取数据库中的所有数据
